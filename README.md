@@ -1,6 +1,14 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7078509&assignment_repo_type=AssignmentRepo)
-# 3. Week - React Native App
+# React-App
 
-- Login ve Menu kısımlarının bulanacağı React Native App oluşturulacak
-- JSONPlaceholder API ve axios kullanarak postlar listelenecek
-- Son tarih: 20.02.2022 14:00
+The application is under development. 
+
+Users can now be registered and logged into the database. It can switch between pages.
+
+## Home Screen
+![homeScreen](https://cdn.discordapp.com/attachments/922810114958831647/943936310014521428/Ekran_goruntusu_2022-02-17_212231.png)
+
+## Login Screen
+![loginScreen](https://cdn.discordapp.com/attachments/922810114958831647/943936309553143858/Ekran_goruntusu_2022-02-17_212153.png)
+
+## Main Screen
+![mainScreen](https://cdn.discordapp.com/attachments/922810114958831647/943936309792231444/Ekran_goruntusu_2022-02-17_212211.png)
