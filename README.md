@@ -11,7 +11,11 @@ To download the project into a file or directly to the desktop. (Don't forget th
 ```bash 
 git clone  https://github.com/171-Logo-Siber-FullStack-Bootcamp/week3-assignment-mert-coderoid.git
 ```
-    
+
+To install required packages
+```
+npm install
+```
 ## Authors and Acknowledgments
 
 - [@mert-coderoid](https://www.github.com/mert-coderoid) for design and development.
